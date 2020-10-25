@@ -20,7 +20,8 @@
     "arduino",
     "cmsis",
     "stm32cube",
-    "libopencm3"
+    "libopencm3",
+    "mbed"
   ],
   "name": "BlackPill F401CE",
   "upload": {
