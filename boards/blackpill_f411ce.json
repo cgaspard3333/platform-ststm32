@@ -3,7 +3,7 @@
     "core": "stm32",
     "cpu": "cortex-m4",
     "extra_flags": "-DSTM32F4xx -DSTM32F411xE",
-    "f_cpu": "100000000L",
+    "f_cpu": "96000000L",
     "mcu": "stm32f411ceu6",
     "product_line": "STM32F411xE",
     "variant": "Generic_F411Cx"
