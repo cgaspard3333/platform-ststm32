@@ -3,7 +3,7 @@
     "core": "stm32",
     "cpu": "cortex-m4",
     "extra_flags": "-DSTM32F4xx -DSTM32F411xE",
-    "f_cpu": "100000000L",
+    "f_cpu": "96000000L",
     "framework_extra_flags": {
       "arduino": "-DCUSTOM_PERIPHERAL_PINS"
     },
@@ -24,6 +24,7 @@
     "cmsis",
     "stm32cube",
     "libopencm3",
+    "mbed",
     "zephyr"
   ],
   "name": "WeAct Studio BlackPill V2.0 (STM32F411CE)",
