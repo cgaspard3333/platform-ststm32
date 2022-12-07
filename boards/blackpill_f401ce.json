@@ -24,7 +24,8 @@
     "cmsis",
     "stm32cube",
     "libopencm3",
-    "zephyr"
+    "zephyr",
+    "mbed"
   ],
   "name": "WeAct Studio BlackPill V3.0 (STM32F401CE)",
   "upload": {
